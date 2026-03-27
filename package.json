@@ -380,9 +380,9 @@
     "i18next": "^25.8.15",
     "i18next-browser-languagedetector": "^8.2.1",
     "immer": "^11.1.4",
-    "isomorphic-dompurify": "^3.0.0",
+    "isomorphic-dompurify": "^3.7.1",
     "jsencrypt": "^3.5.4",
-    "jspdf": "^4.2.0",
+    "jspdf": "^4.2.1",
     "katex": "^0.16.38",
     "less": "^4.5.1",
     "lodash": "^4.17.23",
@@ -459,7 +459,12 @@
     },
     "@xyflow/react": {
       "zustand": "^5.0.9"
-    }
+    },
+    "picomatch": ">=2.3.2",
+    "undici": ">=6.24.1",
+    "yaml": ">=2.8.3",
+    "flatted": ">=3.4.2",
+    "semver": ">=7.7.4"
   },
   "engines": {
     "node": ">=20.12.1",
